@@ -1,0 +1,9 @@
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\bin\Debug\TrabalhoTerceiroBimestrePT.exe.config
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\bin\Debug\TrabalhoTerceiroBimestrePT.exe
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\bin\Debug\TrabalhoTerceiroBimestrePT.pdb
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\obj\Debug\TrabalhoTerceiroBimestrePT.csprojAssemblyReference.cache
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\obj\Debug\TrabalhoTerceiroBimestrePT.Form1.resources
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\obj\Debug\TrabalhoTerceiroBimestrePT.Properties.Resources.resources
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\obj\Debug\TrabalhoTerceiroBimestrePT.csproj.GenerateResource.cache
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\obj\Debug\TrabalhoTerceiroBimestrePT.exe
+C:\Users\vibag\source\repos\TrabalhoTerceiroBimestrePT\TrabalhoTerceiroBimestrePT\obj\Debug\TrabalhoTerceiroBimestrePT.pdb
